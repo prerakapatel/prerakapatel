@@ -10,6 +10,6 @@
 
 🏆 **Winner:** Kaggle Competition : *Companies' Bankruptcy Classification*
 
-💪 **Skills:** *MySQL, R, Tableau, Python, Excel, SAS EM, @RISK, ShinyApp, PowerBI, MongoDB, Github*
+💪 **Skills:** *MySQL, R, Tableau, Python, Excel, SAS EM, @RISK, ShinyApp, PowerBI, MongoDB, Github, Google Analytics, SPSS, AWS*
 
 💪 **Core Competencies:** *Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Cloud Computing, Time Series Analysis*
